@@ -1,0 +1,16 @@
+{
+  "parser": "babel-eslint",
+  "plugins": [
+    "react"
+  ],
+  "extends": [
+    "airbnb-base",
+    "prettier"
+  ],
+  "rules": {
+    "semi": 2,
+    "no-console": ["error", { "allow": ["warn", "error", "info"] }],
+    "class-methods-use-this": "off",
+    "react/jsx-uses-vars": "error"
+  }
+}
