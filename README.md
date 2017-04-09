@@ -13,6 +13,7 @@ Just have fun with react-native/redux/react-native-router-flux
 ### TODO
  - Cover important parts of code with tests
  - Show only last 10 pull request on additional info page
+ - Add search icon to TextInput
  - Fix bugs
 
  
