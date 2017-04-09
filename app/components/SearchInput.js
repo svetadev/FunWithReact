@@ -33,6 +33,7 @@ export default class SearchInput extends Component {
           placeholderTextColor={colors.LIGHTGREY}
           onChangeText={onChange}
           value={value}
+          underlineColorAndroid={'transparent'}
         />
       </View>
     );
