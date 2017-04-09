@@ -3,9 +3,9 @@ Just have fun with react-native/redux/react-native-router-flux
 
 ## Requirements
  Used Github Rest API https://developer.github.com/v3/
- - On main screen of app show top repositories sorted by stars with number of stars, watchers and open issues.
+ - On main screen of app should be top repositories sorted by stars with number of stars, watchers and open issues.
  - On top of page should be search input with possibility to search by repo name (sort by stars).
- - When pressing on repository item show additional repo information with list of the last 10 pull requests with author, name, number and status.
+ - When pressing on repository item should be shown additional repo information with list of the last 10 pull requests with author, name, number and status.
 
 
 ### How it looks
