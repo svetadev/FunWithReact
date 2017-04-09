@@ -10,8 +10,8 @@ Just have fun with react-native/redux/react-native-router-flux
 
 ### How it looks
 <img src="https://cloud.githubusercontent.com/assets/22913344/24838166/190ae636-1d4b-11e7-8d6d-2bb8ccdb78f4.gif" data-canonical-src="https://cloud.githubusercontent.com/assets/22913344/24838166/190ae636-1d4b-11e7-8d6d-2bb8ccdb78f4.gif" width="45%" />
-![funwithreact](https://cloud.githubusercontent.com/assets/22913344/24838166/190ae636-1d4b-11e7-8d6d-2bb8ccdb78f4.gif)
-![funwithreactandroid](https://cloud.githubusercontent.com/assets/22913344/24838739/c87f0524-1d56-11e7-85cc-2119945b7107.gif)
+
+<img src="https://cloud.githubusercontent.com/assets/22913344/24838739/c87f0524-1d56-11e7-85cc-2119945b7107.gif" data-canonical-src="https://cloud.githubusercontent.com/assets/22913344/24838739/c87f0524-1d56-11e7-85cc-2119945b7107.gif" width="45%" />
 
 ### TODO
  - Cover important parts of code with tests
